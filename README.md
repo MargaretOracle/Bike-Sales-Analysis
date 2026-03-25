@@ -61,6 +61,8 @@ I broke my findings into four clear sections:
 
 ---
 
+<details>
+<summary><b>🔹 Click to expand: Deep-Dive Analysis & Strategy</b></summary>
 ### 🔹 Key Observations (The "What")
 
 #### 1. The Revenue Trajectory
@@ -182,3 +184,6 @@ I broke my findings into four clear sections:
   - Analyze the **38-hour workflow at Rowlett** and apply those **best practices** to Baldwin.  
   - Reducing Baldwin’s delay by even **6 hours** can significantly improve customer satisfaction and retention.  
   - This will help prevent the **"Brand Damage"** observed in 2018.
+---
+
+</details>
