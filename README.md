@@ -194,20 +194,46 @@ I broke my findings into four clear sections:
 
 ---
 
-![Inside Inventory](Inside Inventory Dashboard.png)
+![Inside Inventory](Inside-Inventory-Dashboard)
 <details>
 <summary><b>🔹 Click to expand: Deep-Dive Analysis & Strategy</b></summary>
+
+## **2. Inside Inventory Analysis: The Discovery Phase**
+
+**Project Context:**  
+An inventory audit was conducted to assess whether **product availability and stock distribution** contributed to the decline in sales performance.
+
+---
+
+### **❓ Key Business Questions**
+
+- **The Availability Paradox**  
+  With over **13,000 units currently in stock**, the key question is whether this inventory acts as a **safety buffer** to support sales or represents **idle capital** tied up in products that are not in demand.
+
+- **High-Demand Product Availability**  
+  Out of **321 unique products**, it is critical to understand how many are actually available in **high-traffic stores**. There is concern that high-demand items—particularly popular **2018 Trek models**—may be out of stock, leading to missed sales opportunities.
+
+- **Geographic Alignment of Inventory**  
+  Inventory distribution needs to be evaluated against **store performance**. Specifically, comparing **sales velocity and stock levels** between:
+  - **Baldwin (high-volume store)**  
+  - **Rowlett (low-volume store)**  
+  This helps determine whether products are positioned where demand is highest.
+
+- **Category Alignment with Revenue Drivers**  
+  While **Mountain Bikes** are the primary contributors to revenue, a significant portion of inventory consists of **Cruiser Bikes**. This raises the question of whether the current inventory strategy is aligned with actual sales and revenue patterns.
+
+---
 
 ### **Key Observations (The “What”)**
 
 - **Overstock vs. Sales Gap**  
-  Over the past three years, total sales amounted to **7,078 units**, while the current inventory stands at **13,510 units**. This indicates that the business is holding **almost double** its historical sales volume in stock, suggesting significant overstocking.
+  Over the past three years, total sales amounted to **7,078 units**, while the current inventory stands at **13,511 units**. This indicates that the business is holding **almost double** its historical sales volume in stock, suggesting significant overstocking.
 
 - **Low-Stock Concern**  
   Out of **321 products**, **153 (48%)** are classified as “low stock,” meaning their quantities have fallen below the critical average level. This creates a risk of stockouts and potential loss of sales.
 
-  - For example, high-demand **2018 models** such as the *Trek Domane SLR Frameset* have only **5 units remaining globally**, with **zero available in the high-volume Baldwin store**.  
-  - Similarly, the *Electra Superbolt 3i (2018)* has only **9 units remaining across all locations**, indicating limited availability for popular products.
+  - For example, high-demand **2018 models** such as the *Trek Domane SLR Frameset* have only **5 units remaining across all stores**, with **zero available in the high-volume Baldwin store**.  
+  - Similarly, the *Electra Superbolt 3i (2018)* has only **9 units remaining across all stores**, indicating limited availability for popular products.
 
 - **Store Performance Mismatch**  
   There is a clear imbalance between sales performance and inventory allocation across stores:
@@ -218,5 +244,32 @@ I broke my findings into four clear sections:
   Inventory distribution across product categories is not aligned with demand.  
   - **Cruiser Bicycles** are the most overstocked category across all stores (for example, Rowlett alone holds **1,148 units**).  
   - However, **Mountain Bikes**, which are the primary revenue drivers, are not proportionately stocked, indicating a misalignment between inventory and actual demand.
+
+---
+
+### **Strategic Insights (The “Why”)**
+
+- **Inverse Correlation Issue**  
+  There is a critical mismatch between sales performance and inventory allocation. The highest-performing store, **Baldwin**, is understocked, while the lowest-performing store, **Rowlett**, is holding excess inventory. This imbalance limits sales potential and increases the risk of unsold stock.
+
+- **Missed Opportunity in 2018 Models**  
+  The low availability of popular **2018 models** such as *Trek Domane* and *Electra Superbolt* indicates poor demand forecasting. These products are in high demand but are not sufficiently available in key locations like Baldwin, resulting in missed revenue opportunities.
+
+- **Capital Inefficiency**  
+  A significant amount of capital is tied up in slow-moving inventory. For example, holding **1,148 Cruiser bicycles** in a low-sales store like Rowlett means funds are locked in products that are not generating returns. This capital could have been better invested in high-demand products like **Trek SLR framesets** in high-performing stores.
+
+### **Strategic Recommendations (The “How”)**
+
+- **Internal Inventory Redistribution**  
+  Reallocate inventory across stores to better match demand. For example, transfer approximately **40% of Cruiser bicycles** from **Rowlett** to **Baldwin** to improve sales potential and reduce excess stock in low-performing locations.
+
+- **Urgent Restocking of High-Demand Products**  
+  Prioritize restocking of the **153 low-stock products**, especially high-demand 2018 models. Immediate focus should be placed on supplying **Trek Domane SLR Framesets** to **Baldwin** to prevent complete stockouts and capture ongoing demand.
+
+- **Adopt Store-Specific Stocking Strategies**  
+  Replace the current “equal stocking” approach with tailored inventory strategies:
+  - **Baldwin** should adopt a **high-velocity stocking model**, focusing on fast-moving categories such as Road and Mountain bikes.  
+  - **Rowlett** should shift to a **showroom-style model**, maintaining lower inventory levels and focusing on display rather than volume.
+
 
 </details>
