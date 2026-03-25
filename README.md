@@ -187,3 +187,36 @@ I broke my findings into four clear sections:
 ---
 
 </details>
+
+---
+
+## 🔹Inside Inventory
+
+---
+
+![Inside Inventory Dashboard](Inside Inventory Dashboard)
+<details>
+<summary><b>🔹 Click to expand: Deep-Dive Analysis & Strategy</b></summary>
+
+### **Key Observations (The “What”)**
+
+- **Overstock vs. Sales Gap**  
+  Over the past three years, total sales amounted to **7,078 units**, while the current inventory stands at **13,510 units**. This indicates that the business is holding **almost double** its historical sales volume in stock, suggesting significant overstocking.
+
+- **Low-Stock Concern**  
+  Out of **321 products**, **153 (48%)** are classified as “low stock,” meaning their quantities have fallen below the critical average level. This creates a risk of stockouts and potential loss of sales.
+
+  - For example, high-demand **2018 models** such as the *Trek Domane SLR Frameset* have only **5 units remaining globally**, with **zero available in the high-volume Baldwin store**.  
+  - Similarly, the *Electra Superbolt 3i (2018)* has only **9 units remaining across all locations**, indicating limited availability for popular products.
+
+- **Store Performance Mismatch**  
+  There is a clear imbalance between sales performance and inventory allocation across stores:
+  - **Baldwin Bikes** is the top-performing store, generating **4,779 units in sales**, yet it holds the **lowest inventory at 4,359 units**.  
+  - **Rowlett Bikes**, on the other hand, has the **lowest sales (783 units)** but maintains the **highest inventory at 4,620 units**.
+
+- **Category Overload**  
+  Inventory distribution across product categories is not aligned with demand.  
+  - **Cruiser Bicycles** are the most overstocked category across all stores (for example, Rowlett alone holds **1,148 units**).  
+  - However, **Mountain Bikes**, which are the primary revenue drivers, are not proportionately stocked, indicating a misalignment between inventory and actual demand.
+
+</details>
