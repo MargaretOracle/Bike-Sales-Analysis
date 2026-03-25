@@ -194,7 +194,7 @@ I broke my findings into four clear sections:
 
 ---
 
-![Inside Inventory Dashboard](Inside Inventory Dashboard)
+![Inside Inventory](Inside Inventory Dashboard.png)
 <details>
 <summary><b>🔹 Click to expand: Deep-Dive Analysis & Strategy</b></summary>
 
