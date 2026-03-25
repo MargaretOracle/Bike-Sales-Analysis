@@ -35,6 +35,10 @@ I broke my findings into four clear sections:
 
 ---
 
+![Executive Dashboard](Dashboard.png)
+
+---
+
 ### 🔹 Core Business Questions Addressed
 
 1. **Total Revenue**  
