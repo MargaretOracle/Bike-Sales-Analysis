@@ -277,6 +277,11 @@ An inventory audit was conducted to assess whether **product availability and st
 
 ## **Staff Performance & Operational Efficiency**
 
+---
+
+![Staff Perormance dashboard](Staff-Performance-Dasboard.png)
+
+---
 **Project Context:**  
 Following the 2018 revenue decline, an analysis was conducted on **staff performance and workload** to determine whether operational inefficiencies contributed to shipping delays—particularly the **44-hour fulfillment time** at high-volume locations.
 
@@ -316,7 +321,7 @@ Following the 2018 revenue decline, an analysis was conducted on **staff perform
 - **Shipping Delays Increase with Workload**  
   Employees handling more orders tend to have longer shipping times:  
   - High-volume staff (Marcelene, Venita): **44–45 hours**  
-  - Lower-volume staff (e.g., Kali): **~37 hours**
+  - Lower-volume staff (e.g Kali): **~37 hours**
 
 - **Strong Efficiency from Mid-Level Performer**  
   **Genna** stands out by maintaining a strong balance between sales and speed:  
