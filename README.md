@@ -279,7 +279,7 @@ An inventory audit was conducted to assess whether **product availability and st
 
 ---
 
-![Staff Perormance dashboard](Staff-Performance-Dasboard.png)
+![Staff Perormance dashboard](Staff-Performance-Dashboard.png)
 
 ---
 **Project Context:**  
