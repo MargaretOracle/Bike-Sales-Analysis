@@ -190,15 +190,13 @@ I broke my findings into four clear sections:
 
 ---
 
-## 🔹Inside Inventory
+## 🔹Inside Inventory Analysis
 
 ---
 
-![Inside Inventory](Inside-Inventory-Dashboard)
-<details>
-<summary><b>🔹 Click to expand: Deep-Dive Analysis & Strategy</b></summary>
+![Inside Inventory](Inside-Inventory-Dashboard.png)
 
-## **2. Inside Inventory Analysis: The Discovery Phase**
+---
 
 **Project Context:**  
 An inventory audit was conducted to assess whether **product availability and stock distribution** contributed to the decline in sales performance.
@@ -222,7 +220,8 @@ An inventory audit was conducted to assess whether **product availability and st
 - **Category Alignment with Revenue Drivers**  
   While **Mountain Bikes** are the primary contributors to revenue, a significant portion of inventory consists of **Cruiser Bikes**. This raises the question of whether the current inventory strategy is aligned with actual sales and revenue patterns.
 
----
+<details>
+<summary><b>🔹 Click to view Insid Inventory Analysis</b></summary>
 
 ### **Key Observations (The “What”)**
 
@@ -269,7 +268,91 @@ An inventory audit was conducted to assess whether **product availability and st
 - **Adopt Store-Specific Stocking Strategies**  
   Replace the current “equal stocking” approach with tailored inventory strategies:
   - **Baldwin** should adopt a **high-velocity stocking model**, focusing on fast-moving categories such as Road and Mountain bikes.  
-  - **Rowlett** should shift to a **showroom-style model**, maintaining lower inventory levels and focusing on display rather than volume.
+  - **Rowlett** should reduce the amount of stock it holds and focus on displaying a smaller selection of products, rather than keeping large quantities that are not selling.
 
+
+</details>
+
+---
+
+## **Staff Performance & Operational Efficiency**
+
+**Project Context:**  
+Following the 2018 revenue decline, an analysis was conducted on **staff performance and workload** to determine whether operational inefficiencies contributed to shipping delays—particularly the **44-hour fulfillment time** at high-volume locations.
+
+---
+
+### **❓ Key Business Questions**
+
+- **Workload Distribution**  
+  Is sales performance evenly distributed across staff, or is the workload concentrated among a few high-performing individuals?
+
+- **Speed vs. Volume Trade-off**  
+  Does handling a high number of orders lead to slower delivery times and reduced service efficiency?
+
+- **Operational Efficiency**  
+  Which staff members are delivering the best results by balancing **high sales performance** with **fast order fulfillment**?
+
+- **Product Focus**  
+  Are top-performing staff prioritizing high-revenue products such as **Mountain and Road bikes**, or spending time on lower-value items?
+
+---
+
+<details>
+<summary><b>📂 Click to view Staffing Insights & Performance Matrix</b></summary>
+
+### **🔍 Analysis Results**
+
+---
+
+### **I. Key Observations (The “What”)**
+
+- **High Dependence on Top Performers**  
+  Two employees—**Marcelene** and **Venita**—handle nearly **65% of all orders**, indicating a heavy reliance on a small portion of the team.  
+  - Marcelene: **553 orders ($2.7M revenue)**  
+  - Venita: **540 orders ($2.6M revenue)**  
+  - In comparison, the bottom four employees combined handle significantly fewer orders than a single top performer.
+
+- **Shipping Delays Increase with Workload**  
+  Employees handling more orders tend to have longer shipping times:  
+  - High-volume staff (Marcelene, Venita): **44–45 hours**  
+  - Lower-volume staff (e.g., Kali): **~37 hours**
+
+- **Strong Efficiency from Mid-Level Performer**  
+  **Genna** stands out by maintaining a strong balance between sales and speed:  
+  - Generated **$853K (3rd highest revenue)**  
+  - Maintained a **fast 38-hour shipping time**  
+  - Outperformed some lower-volume staff in both speed and efficiency
+
+- **Focus on High-Value Products**  
+  Top performers are driving revenue by focusing on key product categories:  
+  - Marcelene: **$930K (Mountain Bikes)** + **$576K (Road Bikes)**  
+  - Venita: **$906K (Mountain Bikes)** + **$563K (Road Bikes)**  
+
+---
+
+### **II. Strategic Insights (The “Why”)**
+
+- **Over-Reliance on Few Employees**  
+  The longer shipping times for Marcelene and Venita are not due to poor performance, but **excess workload**. The business depends too heavily on them, creating a risk—if one leaves, a significant portion of revenue is affected.
+
+- **Performance Gap Among Staff**  
+  Some employees, such as **Layla**, handle fewer orders but still take longer to fulfill them compared to others like Genna. This suggests a need for **process improvement or additional training**.
+
+- **Clear Revenue Drivers**  
+  The strong performance of Mountain and Road bikes confirms that focusing on these categories is the right strategy for maximizing revenue.
+
+---
+
+### **III. Strategic Recommendations (The “How”)**
+
+- **Improve Workload Distribution**  
+  Balance responsibilities across the team. For example, **Genna can support or mentor Layla** to improve efficiency and consistency in order handling.
+
+- **Provide Support for High Performers**  
+  During peak periods (such as April), introduce temporary support staff to assist with packaging and shipping. This allows top performers to focus on sales while maintaining faster delivery times.
+
+- **Introduce Efficiency-Based Incentives**  
+  Develop a performance system that rewards not only total sales but also **speed and efficiency**. This encourages all staff to improve both productivity and service quality.
 
 </details>
